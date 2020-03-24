@@ -1,0 +1,1 @@
+# Processamento_Imagem_Derivada
