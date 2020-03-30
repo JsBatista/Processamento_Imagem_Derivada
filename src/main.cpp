@@ -1,3 +1,11 @@
+/*
+	Métodos numéricos II
+	Dupla: João Batista de Freitas Filho - Matrícula: 414644
+		   Felipe Barros Damasceno - Matricula: 412983 
+
+*/
+
+
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <iostream>
@@ -9,7 +17,7 @@ using namespace std;
 
 
 
-
+// Função que vai fazer a máscara de derivada como mostrada no vídeo
 int mascara_derivada_central( Mat *imagem_original, int i, int j )
 {
 
